@@ -1,0 +1,4 @@
+/Users/clzhang/research/PanoHDR/code/build/intermediates/classes/debug
+/Users/clzhang/research/PanoHDR/code/build/intermediates/pre-dexed/debug/library-9f73438e61cf7a2ffef57cdd07bf6d9a5dc6c895.jar
+/Users/clzhang/research/PanoHDR/code/build/intermediates/pre-dexed/debug/classes-8124b7cfbf26c079817f32754367421557589157.jar
+/Users/clzhang/research/PanoHDR/code/build/intermediates/pre-dexed/debug/support-v4-19.1.0-6fd45d8aea3eba1ea0cd9d762e5e7ddd9c7d7b8c.jar

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/clzhang/research/PanoHDR/code/build/intermediates/exploded-aar/PanoHDR/openCVLibrary2410/unspecified/assets"/></dataSet><dataSet config="main"><source path="/Users/clzhang/research/PanoHDR/code/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/clzhang/research/PanoHDR/code/src/debug/assets"/></dataSet></merger>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/clzhang/research/PanoHDR/code/build/intermediates/exploded-aar/PanoHDR/openCVLibrary2410/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe2ead27bb31520c833b9167e90eb571c8eed41d">
+        <dex dex="/Users/clzhang/research/PanoHDR/code/build/intermediates/pre-dexed/debug/classes-8124b7cfbf26c079817f32754367421557589157.jar" />
+    </item>
+    <item
+        jar="/Users/clzhang/research/PanoHDR/library/build/libs/library.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc078ffbf3cab87ca3157e72bc4b526797b93552">
+        <dex dex="/Users/clzhang/research/PanoHDR/code/build/intermediates/pre-dexed/debug/library-9f73438e61cf7a2ffef57cdd07bf6d9a5dc6c895.jar" />
+    </item>
+    <item
+        jar="/Users/clzhang/Tools/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/clzhang/research/PanoHDR/code/build/intermediates/pre-dexed/debug/support-v4-19.1.0-6fd45d8aea3eba1ea0cd9d762e5e7ddd9c7d7b8c.jar" />
+    </item>
+
+</items>
